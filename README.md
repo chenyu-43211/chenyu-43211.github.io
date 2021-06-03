@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的主页
 
-You can use the [editor on GitHub](https://github.com/chenyu-43211/chenyu-43211.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+学习本就是一场没有终点的旅行，虽然你永远不知道道路的前方有什么在等你，但是路边的风景却已知的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在这里我将分享个人的学习心得，不一定是最好的，但一定是最真实的
 
 ### Markdown
 
